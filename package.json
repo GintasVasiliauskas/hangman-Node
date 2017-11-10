@@ -1,0 +1,19 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "this is hangman game designed for node",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chicago",
+    "detroit",
+    "michigan..."
+  ],
+  "author": "Gintas Vasiliauskas",
+  "license": "ISC",
+  "dependencies": {
+    "require": "^2.4.20"
+  }
+}
